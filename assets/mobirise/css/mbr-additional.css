@@ -35,7 +35,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Arial', sans-serif;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
@@ -3110,7 +3110,7 @@ body {
 .cid-qTHe2zFTv7 P {
   color: #000000;
   text-align: justify;
-  font-weight:bold;
+  
 }
 .cid-qTHe2zFTv7 B {
   color: #2a2825;
