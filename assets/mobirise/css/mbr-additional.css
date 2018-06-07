@@ -2057,7 +2057,7 @@ body {
   text-align: center;
 }
 .cid-qTqA1XwfPW P {
-  text-align: center;
+  text-align: justify;
 }
 .cid-qTqGgooae3 {
   padding-top: 60px;
@@ -2080,7 +2080,7 @@ body {
   height: 100%;
 }
 .cid-qTqGgooae3 P {
-  text-align: center;
+  text-align: justify;
 }
 .cid-qTqGgooae3 .card-title {
   text-align: center;
@@ -3109,7 +3109,8 @@ body {
 }
 .cid-qTHe2zFTv7 P {
   color: #000000;
-  text-align: center;
+  text-align: justify;
+  font-weight:bold;
 }
 .cid-qTHe2zFTv7 B {
   color: #2a2825;
